@@ -1,8 +1,9 @@
 # POO
-Programação Orientada a Objeto - UFU 2020-2
 
 Unidade Acadêmica: Faculdade de Computação – FACOM
+
 Disciplina: Programação Orientada a Objetos I
+
 Professor: Fabiano Azevedo Dorça
 
 
