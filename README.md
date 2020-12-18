@@ -17,10 +17,10 @@ ambiente BlueJ para implementar a solução.
 1) Situação problema:
 
 
-1. Domínio do problema: Gestão acadêmica
+* Domínio do problema: Gestão acadêmica
 
 
-2. Descrição do problema: Uma universidade necessita de um sistema que
+* Descrição do problema: Uma universidade necessita de um sistema que
 facilite a sua gestão acadêmica. Deseja-se um controle de quais disciplinas
 são ministradas por cada professor e em qual curso. Também é necessário
 um controle de quais disciplinas são cursadas por um aluno. Sabe-se que
