@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="2"/>
+    <Property name="title" type="java.lang.String" value="Cadastro Aluno de Gradua&#xe7;&#xe3;o"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace min="0" pref="186" max="32767" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="1" attributes="0">
+                              <Component id="legendaSituacaoAlunoGrad" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="172" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="1" attributes="0">
+                              <Component id="cadastrarAlunoGrad" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="cadNomeAlunoGrad" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="cadCpfAlunoGrad" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="cadEndAlunoGrad" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="cadTelAlunoGrad" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="cadMatAlunoGrad" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="cadSitAlunoGrad" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="cadCurAlunoGrad" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="4" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="nomeAlunoGrad" max="32767" attributes="0"/>
+                          <Component id="cpfAlunoGrad" max="32767" attributes="0"/>
+                          <Component id="endAlunoGrad" max="32767" attributes="0"/>
+                          <Component id="telAlunoGrad" alignment="0" max="32767" attributes="0"/>
+                          <Component id="matAlunoGrad" max="32767" attributes="0"/>
+                          <Component id="sitAlunoGrad" max="32767" attributes="0"/>
+                          <Component id="curAlunoGrad" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace max="32767" attributes="0"/>
+              <Component id="cadCursoAlunoGrad" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="69" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="cadNomeAlunoGrad" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="nomeAlunoGrad" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="cadCpfAlunoGrad" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cpfAlunoGrad" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="cadEndAlunoGrad" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="endAlunoGrad" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="cadTelAlunoGrad" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="telAlunoGrad" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="cadMatAlunoGrad" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="matAlunoGrad" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="cadSitAlunoGrad" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="sitAlunoGrad" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="legendaSituacaoAlunoGrad" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="3" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="cadCurAlunoGrad" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="curAlunoGrad" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="cadCursoAlunoGrad" min="-2" max="-2" attributes="0"/>
+              <EmptySpace pref="45" max="32767" attributes="0"/>
+              <Component id="cadastrarAlunoGrad" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="cadNomeAlunoGrad">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Nome:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="cadCpfAlunoGrad">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="CPF:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="cadEndAlunoGrad">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Endere&#xe7;o:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="cadTelAlunoGrad">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Telefone:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="cadMatAlunoGrad">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Matricula:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="cadSitAlunoGrad">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Situa&#xe7;&#xe3;o:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="legendaSituacaoAlunoGrad">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="(M)atriculado | (T)trancado | (D)esligado"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="cadCurAlunoGrad">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Curso"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="nomeAlunoGrad">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="nomeAlunoGradActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="cpfAlunoGrad">
+    </Component>
+    <Component class="javax.swing.JTextField" name="endAlunoGrad">
+    </Component>
+    <Component class="javax.swing.JTextField" name="telAlunoGrad">
+    </Component>
+    <Component class="javax.swing.JTextField" name="matAlunoGrad">
+    </Component>
+    <Component class="javax.swing.JTextField" name="sitAlunoGrad">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="sitAlunoGradActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="curAlunoGrad">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="c&#xf3;digo"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="cadastrarAlunoGrad">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Finalizar Cadastro"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="cadastrarAlunoGradActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="cadCursoAlunoGrad">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Cadastrar novo curso"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="cadCursoAlunoGradActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>
