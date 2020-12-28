@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Disciplina
+comment1.params=curso
+comment1.target=void\ setCurso(Curso)
+comment10.params=
+comment10.target=void\ mostrarDados()
+comment2.params=professor
+comment2.target=void\ setProfessor(recursosHumanos.Professor)
+comment3.params=nome
+comment3.target=boolean\ setNome(java.lang.String)
+comment4.params=codigo
+comment4.target=boolean\ setCodigo(java.lang.String)
+comment5.params=carga_horaria
+comment5.target=boolean\ setCarga_horaria(int)
+comment6.params=
+comment6.target=java.lang.String\ getNome()
+comment7.params=
+comment7.target=java.lang.String\ getCodigo()
+comment8.params=
+comment8.target=int\ getCarga_horaria()
+comment9.params=
+comment9.target=void\ lerDados()
+numComments=11

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Tecnico
+comment1.params=cargo
+comment1.target=boolean\ setCargo(java.lang.String)
+comment2.params=departamento
+comment2.target=boolean\ setDepartamento(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getCargo()
+comment4.params=
+comment4.target=java.lang.String\ getDepartamento()
+comment5.params=
+comment5.target=void\ lerDados()
+comment6.params=
+comment6.target=void\ mostrarDados()
+numComments=7

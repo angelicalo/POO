@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Aluno
+comment1.params=curso
+comment1.target=void\ setCurso(academico.Curso)
+comment2.params=matricula
+comment2.target=boolean\ setMatricula(java.lang.String)
+comment3.params=situacao
+comment3.target=boolean\ setSituacao(java.lang.String)
+comment4.params=
+comment4.target=academico.Curso\ getCurso()
+comment5.params=
+comment5.target=java.lang.String\ getMatricula()
+comment6.params=
+comment6.target=java.lang.String\ getSituacao()
+comment7.params=
+comment7.target=void\ lerDados()
+comment8.params=
+comment8.target=void\ mostrarDados()
+numComments=9

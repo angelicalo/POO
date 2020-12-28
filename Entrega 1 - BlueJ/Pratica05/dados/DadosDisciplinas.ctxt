@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=DadosDisciplinas
+comment1.params=d
+comment1.target=void\ cadastrar(academico.Disciplina)
+comment2.params=
+comment2.target=void\ listar()
+comment3.params=codigo
+comment3.target=academico.Disciplina\ buscar(java.lang.String)
+comment4.params=codigo
+comment4.target=boolean\ excluir(java.lang.String)
+numComments=5

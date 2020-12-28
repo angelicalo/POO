@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=DadosFuncionarios
+comment1.params=f
+comment1.target=void\ cadastrar(recursosHumanos.Funcionario)
+comment2.params=
+comment2.target=void\ listar()
+comment3.params=cpf
+comment3.target=recursosHumanos.Funcionario\ buscar(java.lang.String)
+comment4.params=cpf
+comment4.target=boolean\ excluir(java.lang.String)
+numComments=5
